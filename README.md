@@ -1,0 +1,3 @@
+* Simple python script to display clickable thumbnails in a folder.
+* READ the comments in server.py for instructions
+* You will need both the .py file and the .js file in the same folder ...
